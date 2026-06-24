@@ -1,32 +1,39 @@
 # West Marches — How It Works
 
-## The Core Concept
-**Bral Stars** is a **West Marches** style campaign. This means:
+## Schedule
 
-- There is **no fixed party** — any combination of player characters can go on any adventure
-- Sessions are **player-driven** — you choose what to pursue, where to go, and when to play
-- The DM does not schedule sessions — **you do**
-- The world is **persistent** — what happens in one session affects future sessions for everyone
+| Event | When | Duration |
+|-------|------|----------|
+| **Main Session** | 3rd Tuesday of each month | ~3 hours, 5:30 PM PST |
+| **Workshop** (optional) | Thursday following the main session | ~1 hour, 5:30 PM PST |
 
-## Starting a Session
-1. Post in the group chat with a proposed **goal or destination**
-2. Other players opt in — minimum 2, maximum 5 characters
-3. Pick a date and time
-4. Play the session
-5. Post a **brief recap** afterward so other players know what happened
+## Monthly Hook Voting
 
-## The Adventurers' Board
-[[The Laughing Beholder]] maintains the **Adventurers' Board** — a corkboard full of jobs, bounties, and rumors. This is your primary source of hooks, but you're free to pursue your own leads too.
+At the start of each month the DM posts available plot hooks in Discord. Players vote on which to pursue that month.
 
-## Character Safety
-- Characters who are **not present** for a session are safely back on the Rock of Bral
-- Characters can die — this is a dangerous world
-- Resurrection is available, but expensive
+- Hooks are posted and voted on in Discord (check pinned messages)
+- The winning hook is the focus of the scheduled session
+- Unvoted hooks remain available for future months
+- Parties can still pursue off-board leads, but the voted hook takes priority for the main session
 
-## Information Sharing
-- Explored areas are **shared knowledge** — post maps and notes for the whole group
-- NPCs remember what happened in previous sessions
-- Factions track your reputation over time
+## Workshop Thursdays
+
+The optional Thursday session is for:
+- [[Downtime Activities]]
+- Shopping, crafting, or NPC conversations
+- Loose ends from the previous session
+- Character or party admin
+
+No obligation to attend — but it's a good outlet for things that don't need the full table.
+
+## The World is Persistent
+
+- NPCs remember what the party did
+- Locations change after interactions
+- Factions track reputation over time
+- Each session's outcome shapes future sessions
 
 ## Downtime
-Between sessions, characters can pursue [[Downtime Activities]] on the Rock of Bral.
+
+Between sessions, each character may pursue one [[Downtime Activities|downtime activity]] per week of in-game time. Message the DM with what your character is doing.
+

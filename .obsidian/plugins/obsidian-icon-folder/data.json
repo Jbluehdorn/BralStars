@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFilePaper2Line",
       "TiFeather",
       "LiFeather",
       "LiBrain",
-      "LiBean",
-      "RaVial"
+      "LiBean"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,5 +128,6 @@
   "1. World/Events/The Poisoning of Jolly Rancher.md": "RaVial",
   "1. World/Items/DMG/Bag of Beans.md": "LiBean",
   "2. Mechanics/PHB/Concentration.md": "LiBrain",
-  "1. World/Items/DMG/Quaal's Feather Token.md": "TiFeather"
+  "1. World/Items/DMG/Quaal's Feather Token.md": "TiFeather",
+  "3. Player Handouts": "RiFilePaper2Line"
 }
