@@ -1,0 +1,65 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/151936751",
+      "displayName": "DDBCora",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/151936971",
+      "displayName": "DDBElio",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/151936544",
+      "displayName": "DDBCuvee",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/151936784",
+      "displayName": "DDBSly",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/151936807",
+      "displayName": "DDBTeah",
+      "icon": "",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

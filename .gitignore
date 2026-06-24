@@ -1,0 +1,6 @@
+# Ignore attachment files that shouldn't be committed
+z_attachments/
+
+# Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

@@ -1,0 +1,8 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "WikiCallouts"
+  ],
+  "accentColor": "#bc00f0",
+  "theme": "system"
+}
