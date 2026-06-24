@@ -5,5 +5,6 @@
 - [[Character Creation]]
 - [[Factions & Connections]]
 - [[Important NPCs]]
+- [[Important Locations]]
 - [[Adventurers' Board]]
 - [[Maps & Visuals]]

@@ -12,7 +12,7 @@ These are the key figures players are most likely to interact with on the Rock o
 
 Large Luigi is a beholder who, through some unknowable twist of fate or philosophy, decided that running a tavern was more interesting than world domination. He is gregarious, dramatic, and genuinely enjoys good company — though he has absolutely no patience for troublemakers, whom he disintegrates without ceremony.
 
-He knows everyone on the Rock of Bral and has a gift for remembering faces, names, and debts. His eye stalks are almost always doing something — scanning the room, winking at regulars, or glaring daggers at someone who hasn't paid their tab.
+He knows everyone on the Rock of Bral and has a gift for remembering faces, names, and debts. His eye stalks are almost always doing something — scanning the room, winking at regulars, or glaring daggers at someone who hasn't paid their tab. His tavern, **The Laughing Beholder**, is your home base — see [[Important Locations]] for details.
 
 **Rumors:**
 - Luigi was exiled from his beholder colony for "excessive friendliness"
@@ -23,9 +23,7 @@ He knows everyone on the Rock of Bral and has a gift for remembering faces, name
 
 ## The Laughing Beholder
 
-The most famous tavern on the Rock of Bral and the social hub of adventuring life. It is neutral ground — no faction politics, no violence, no exceptions. Luigi enforces this personally.
-
-The **Adventurers' Board** is posted near the entrance. This is where jobs, rumors, and expedition opportunities appear between sessions.
+See [[Important Locations]] for a full description of the tavern itself.
 
 ---
 
