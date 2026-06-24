@@ -32,7 +32,7 @@ Every character needs **a reason to go on adventures** — something that pulls 
 
 Good reasons: debt, curiosity, greed, a missing person, a reputation to build, a score to settle, wanderlust, a ship that needs a crew.
 
-Optionally, your character may also have a connection to a **faction, another PC, or an NPC** on the Rock. These aren't required but add depth and give the DM more to work with.
+Optionally, your character may also have a connection to a **faction, another PC, or an NPC** on the Rock. See [[Factions & Connections]] for a full breakdown of who's who and connection ideas.
 
 > [!warning] One rule
 > Your character can't be so tied down that they can't leave. A guildmaster, a city official, a shopkeeper with daily obligations — these characters can't realistically drop everything for a three-hour adventure. Make sure your concept has the **freedom to go**.
