@@ -28,10 +28,14 @@ Every character needs a reason to be on the Rock of Bral. Pick one or invent you
 
 ## Connections
 
-Before your first session, establish:
+Every character needs **a reason to go on adventures** — something that pulls them off the Rock and into danger. This is the most important thing to define.
 
-1. **One connection to another PC** — how do you know them? You don't have to like each other.
-2. **One connection to an NPC on the Rock** — a contact, a rival, a creditor, someone who knows your name
+Good reasons: debt, curiosity, greed, a missing person, a reputation to build, a score to settle, wanderlust, a ship that needs a crew.
+
+Optionally, your character may also have a connection to a **faction, another PC, or an NPC** on the Rock. These aren't required but add depth and give the DM more to work with.
+
+> [!warning] One rule
+> Your character can't be so tied down that they can't leave. A guildmaster, a city official, a shopkeeper with daily obligations — these characters can't realistically drop everything for a three-hour adventure. Make sure your concept has the **freedom to go**.
 
 ---
 
