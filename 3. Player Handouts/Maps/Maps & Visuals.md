@@ -4,6 +4,12 @@ Official maps and reference images for the Rock of Bral.
 
 ---
 
+## The Rock of Bral
+*Artistic render — the asteroid city drifting through Wildspace.*
+![[RockOfBral_Render.jpg]]
+
+---
+
 ## Topside Map
 *The city of Bral — Low City, Middle City, and High City.*
 ![[RockOfBral_TopMap.jpg]]
