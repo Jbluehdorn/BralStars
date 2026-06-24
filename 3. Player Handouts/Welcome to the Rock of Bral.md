@@ -10,7 +10,7 @@ You are in the third category.
 
 ## What You Know
 
-The Rock is divided into three districts:
+The Rock is divided into three districts — see [[Maps & Visuals]] for full maps.
 
 **Low City** — the docks, the warehouses, the rough taverns. This is where ships arrive, cargo moves, and deals get made away from official eyes. The [[The Rat's Maze|Rat's Maze]] is here, and you've been warned to stay out of it unless you have business.
 
