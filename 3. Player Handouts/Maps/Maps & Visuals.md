@@ -34,6 +34,6 @@ Official maps and reference images for the Rock of Bral.
 
 ---
 
-## Prince Andru & His Advisors
-*Left to right: Proconsul Gadaric Main, Lord Diadan Cartan, Prince Andru, Lady Cerena, Captain of the Royal Guard Mahaxara Khal.*
+## Prince Andru
+*The ruler of the Rock.*
 ![[RockOfBral_Leaders.jpg]]

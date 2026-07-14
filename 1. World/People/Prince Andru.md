@@ -17,10 +17,8 @@ Andru is not cruel, but he is calculating. He genuinely wants the Rock to prospe
 He maintains a facade of genial accessibility while keeping his true intentions carefully hidden.
 
 **Motivations:**
-- Maintain the independence of the Rock of Bral from major powers (Arcane, Elven Imperial Fleet, etc.)
+- Maintain the independence of the Rock of Bral
 - Expand trade networks through new crystal spheres
-- Keep the noble houses and guilds in check through competition
+- Keep power balanced between the factions of the Rock
 
-**Rumors:**
-- He has a secret arrangement with the Arcane for exclusive spelljamming helm contracts
-- He is quietly funding exploration expeditions to chart new asteroid fields
+*(Specific rumors, allies, and rivals to be established through Session 0 world-building and play.)*

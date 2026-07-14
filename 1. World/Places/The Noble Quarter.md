@@ -14,7 +14,7 @@ The **Noble Quarter** is High City's most exclusive district — a neighborhood 
 
 The streets are quiet and well-maintained, patrolled by private guards whose job is to keep out anyone who doesn't belong. Life here is not the raw commerce of the Middle City or the survival calculus of the Low City — it is the slower, more dangerous game of high-society intrigue. Alliances are forged and broken, fortunes change hands in private card rooms, and old grudges are settled through reputation rather than blades (usually).
 
-Major noble houses — including [[House Traken]] — maintain their primary estates here.
+The major noble houses of the Rock maintain their primary estates here.
 
 # Character of the Quarter
 - Private parties and exclusive dinners are the primary social venue

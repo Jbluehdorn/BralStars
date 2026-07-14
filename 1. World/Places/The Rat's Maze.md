@@ -13,11 +13,11 @@ The **Rat's Maze** is the worst of the Low City — a dense, labyrinthine warren
 
 This is where the truly desperate live: beggars, outcasts, petty criminals, and those who have nowhere else to go. Outsiders are noticed immediately and either followed, watched, or given a wide berth depending on how dangerous they look.
 
-Even residents of the Low City warn against wandering into the Maze without knowing where you're going. The [[The Juggler's Guild|Juggler's Guild]] maintains several hideouts in the Rat's Maze, and their informant network runs deep through the community.
+Even residents of the Low City warn against wandering into the Maze without knowing where you're going. Whoever controls the criminal underworld of the Rock keeps hideouts here, and informant networks run deep through the community.
 
 # Reputation
 - The constabulary rarely patrols here — it's not worth the trouble
-- Multiple thieves' guild bolt-holes and secret passages are rumored to honeycomb the structures
+- Bolt-holes and secret passages are rumored to honeycomb the structures
 - Some say there are parts of the Maze that were here before Prince Andru's family claimed the Rock
 
 # Adventure Hooks

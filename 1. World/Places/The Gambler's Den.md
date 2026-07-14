@@ -22,4 +22,4 @@ The proprietor, **Mila "Quickfingers" Xelbrin**, has a reputation for running ho
 # Adventure Hooks
 - A noble house is secretly rigging games to launder money or ruin a rival
 - A valuable item was put up as collateral on a debt and lost at the tables
-- The [[The Juggler's Guild|Juggler's Guild]] is muscling in on the Den's profits; Mila needs quiet help
+- A criminal faction is muscling in on the Den's profits; Mila needs quiet help

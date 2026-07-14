@@ -27,7 +27,7 @@ The noise never stops. Customs officials collect docking fees and inspect cargo 
 
 A dense, labyrinthine warren of crooked alleys, makeshift shanties, and collapsing tenements. Sunlight barely reaches the deepest passages. Even residents of the Low City warn against wandering in without knowing where you're going.
 
-The Juggler's Guild maintains several hideouts here. The constabulary rarely patrols.
+The constabulary rarely patrols here. Whatever criminal element runs the Rock keeps its hideouts in the Maze.
 
 ---
 
@@ -52,7 +52,7 @@ Temples offer healing, blessings, divination, and ritual services — for a dona
 ## The Gambler's Den
 **District:** Middle City | **Type:** Gaming House
 
-The Rock's most prominent gambling establishment. Cards, dice, and stranger games of chance operate around the clock. House Traken is rumored to have a silent stake in the business.
+The Rock's most prominent gambling establishment. Cards, dice, and stranger games of chance operate around the clock.
 
 ---
 

@@ -40,10 +40,7 @@ Notable locations:
 - [[The Arena]] — gladiatorial combat for public entertainment
 
 # Factions
-- [[House Traken]] — dominant merchant noble house
-- [[The Juggler's Guild]] — thieves' guild controlling much of the Low City
-- [[The Arcane]] — mysterious blue-skinned traders who sell spelljamming helms
-- [[The Seekers]] — an adventurers' guild
+*(to be generated collaboratively in Session 0)*
 
 # History
 The Rock of Bral began as a pirate base and gradually grew into a legitimate (or semi-legitimate) city-state under the rule of the Bral royal family. Prince Andru currently rules with a careful balance of power between the noble houses, the guilds, and the military.

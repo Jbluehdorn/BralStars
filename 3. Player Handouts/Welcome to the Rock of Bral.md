@@ -38,8 +38,4 @@ Further still, past the edge of the solar system, is **the Phlogiston** — a tu
 
 **Prince Andru** rules the Rock. He's pragmatic and not unkind, but he is absolutely self-interested. The constabulary enforces the law in Middle and High City. In Low City, law is more of a suggestion.
 
-The major power players you've heard of:
-- **[[House Traken]]** — richest merchant house on the Rock
-- **[[The Juggler's Guild]]** — the thieves' guild; they run the Low City underworld
-- **[[The Arcane]]** — alien traders who sell spelljamming helms; strictly neutral in all things
-- **[[The Seekers]]** — the adventurers' guild; friendly to people like you
+The other power players on the Rock — the guilds, houses, gangs, and cabals that actually shape daily life — you'll be helping define in Session 0.

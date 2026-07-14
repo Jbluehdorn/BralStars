@@ -25,10 +25,7 @@
 - [[Large Luigi]]
 
 ## Factions
-- [[House Traken]]
-- [[The Juggler's Guild]]
-- [[The Arcane]]
-- [[The Seekers]]
+*(to be generated in Session 0)*
 
 ## Events
 *(none yet)*

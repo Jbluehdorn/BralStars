@@ -1,6 +1,6 @@
 # Important NPCs
 
-These are the key figures players are most likely to interact with on the Rock of Bral.
+The two established figures on the Rock. Every other named NPC will emerge from Session 0 world-building and play.
 
 ---
 
@@ -39,16 +39,3 @@ Andru is not cruel, but he is calculating. He genuinely wants the Rock to prospe
 
 He maintains a facade of genial accessibility while keeping his true intentions carefully hidden.
 
-**Rumors:**
-- He has a secret arrangement with the Arcane for exclusive spelljamming helm contracts
-- He is quietly funding exploration expeditions to chart new asteroid fields
-
----
-
-## Other Notable Figures
-
-**Captain Mahaxara Khal** — Head of the Royal Guard. Efficient, loyal to the Prince, and deeply suspicious of adventurers by default. Not corrupt, which makes her harder to deal with than most.
-
-**The Juggler** — Unknown identity. The mysterious leader of the Juggler's Guild. Nobody knows who they are. Several people have claimed to, and several of those people have since disappeared.
-
-**The Arcane Factor** — The unnamed representative of the Arcane on the Rock. Blue-skinned, tall, impeccably dressed, and utterly unreadable. Sells spelljamming helms. Will not discuss anything else.

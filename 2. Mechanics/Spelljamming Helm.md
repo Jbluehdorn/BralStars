@@ -23,4 +23,4 @@ A **spelljamming helm** is a magical throne-like seat that, when a spellcaster a
 | Major Helm | 3 hexes/day | 50,000 gp |
 | Series Helm | Varies | Rare; not for sale |
 
-> The [[The Arcane|Arcane]] hold near-monopoly on helm manufacture and sale.
+> Helm manufacture and trade is tightly controlled — supply chains are opaque and expensive.

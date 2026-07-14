@@ -1,9 +1,9 @@
 # Adventurers' Board
 
-*The corkboard at [[The Laughing Beholder]], managed by [[The Seekers]]. Updated between sessions.*
+*The corkboard at [[The Laughing Beholder]]. Anyone can post; anyone can pick up a job.*
 
-> [!note] How Hooks Work
-> At the start of each month, the DM posts available plot hooks in Discord. The group votes on which to pursue for that month's session. Check Discord pinned messages for the current vote.
+> [!note] How Jobs Work
+> Any crew can pull a job off the board. Post in the group chat when you want to run one — form a party, name the job, pick a date.
 
 ---
 

@@ -5,7 +5,7 @@
 | d10 | Encounter |
 |-----|-----------|
 | 1 | A pickpocket attempts to lift something from the party |
-| 2 | A Juggler's Guild enforcer wants a word |
+| 2 | A local enforcer wants a word |
 | 3 | A desperate sailor offers information in exchange for coin |
 | 4 | A street vendor is selling suspiciously magical goods |
 | 5 | A brawl spills out of a tavern |
