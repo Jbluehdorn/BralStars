@@ -1,69 +1,119 @@
 # Important Locations
 
-Key places on the Rock of Bral that players are likely to visit, reference, or hear about.
+Places you'll visit, hear about, or want to avoid. Grouped by district. See [[Maps & Visuals]] for the maps.
 
 ---
+
+# 🌊 Low City
 
 ## The Laughing Beholder
-**District:** Low City | **Type:** Tavern & Inn | **Owner:** Large Luigi
+**Owner:** [[Large Luigi|Large Luigi]] · **Type:** Tavern & Inn
 
-The most famous establishment on the Rock — a massive tavern run by a beholder named Large Luigi. Despite the obvious danger of an eye tyrant running a bar, Luigi is surprisingly jovial and has built it into a true institution. It is neutral ground: no faction politics, no violence, no exceptions. Luigi enforces this personally.
-
-The **Adventurers' Board** near the entrance is where jobs, bounties, rumors, and expedition proposals from across Wildspace are posted. This is your home base.
-
----
+The most famous establishment on the Rock. Neutral ground: no faction politics, no violence, no exceptions. Luigi enforces this personally. The **Adventurers' Board** near the entrance is where jobs, bounties, rumors, and expedition proposals get posted. This is your home base.
 
 ## The Docks
-**District:** Low City | **Type:** Port District
+**Type:** Port District
 
-The beating heart of the Rock's economy — massive platforms bolted to the asteroid where ships arrive and depart around the clock. Merchant galleons, pirate cutters, military frigates, and strange alien craft from distant crystal spheres all pass through here.
-
-The noise never stops. Customs officials collect docking fees and inspect cargo — though a modest bribe can simplify that process considerably.
-
----
+Massive platforms bolted to the asteroid where spelljamming ships arrive around the clock. Noise never stops. Customs officials collect docking fees — a modest bribe simplifies the process considerably.
 
 ## The Rat's Maze
-**District:** Low City | **Danger:** High
+**Type:** Slum district · **Danger:** High
 
-A dense, labyrinthine warren of crooked alleys, makeshift shanties, and collapsing tenements. Sunlight barely reaches the deepest passages. Even residents of the Low City warn against wandering in without knowing where you're going.
+A dense, labyrinthine warren of crooked alleys, shanties, and collapsing tenements. Sunlight barely reaches the deepest passages. The constabulary rarely patrols here.
 
-The constabulary rarely patrols here. Whatever criminal element runs the Rock keeps its hideouts in the Maze.
+## The Boroughs
+**Type:** Working-class residential neighborhood
+
+Where the docks' dockworkers and Bazaar's small merchants live. Tight-knit. HOA-run. Home turf of [[Factions & Connections|the Hammers]].
+
+## The Fields
+**Type:** Cemetery / compost yard
+
+The Rock has to put its dead somewhere. It puts them here. The soil is famously fertile; the Rock's agricultural plots depend on the runoff. Nobody talks about the sourcing.
+
+## The Edge
+**Type:** Brothel · **Speciality:** *A specific kink*
+
+Absolute discretion. Half the Rock's power players have a standing appointment. None of it ever gets used as blackmail. The staff won't name the speciality in mixed company.
+
+## Gaspar Reclamations
+**Type:** Salvage yard · **Reputation:** Rumored mob front
+
+Everyone thinks Gaspar Reclamations is a front for the Donjon Crime Family. The Gaspars insist they're a lovely mom-and-pop scrap operation. Nobody has taken them at their word.
 
 ---
+
+# 🏛 Middle City
 
 ## The Grand Bazaar
-**District:** Middle City | **Type:** Open-Air Market
+**Type:** Open-air market
 
-One of the largest marketplaces in all of Wildspace. Hundreds of stalls sell goods from dozens of crystal spheres — spelljamming components, magical trinkets, exotic foods, rare maps, and stranger things. Haggling is expected; offering the asking price is considered vaguely insulting.
-
-Truly illegal goods change hands through subtler channels, often via brokers operating from seemingly ordinary stalls.
-
----
+One of the largest markets in all of Wildspace. Hundreds of stalls from dozens of crystal spheres. Haggling expected. Truly illegal goods change hands through subtler channels.
 
 ## Temple Row
-**District:** Middle City | **Type:** Religious District
+**Type:** Religious district
 
-A long street lined with shrines and temples dedicated to gods from scores of different worlds. The most prominent is the **Shrine of Celestian** — patron of spelljammers and wanderers, always busy with sailors seeking safe passage.
-
-Temples offer healing, blessings, divination, and ritual services — for a donation.
-
----
+Shrines and temples from a hundred worlds. Most prominent: the **Shrine of Celestian**, patron of spelljammers and wanderers.
 
 ## The Gambler's Den
-**District:** Middle City | **Type:** Gaming House
+**Type:** Gaming house
 
-The Rock's most prominent gambling establishment. Cards, dice, and stranger games of chance operate around the clock.
+Cards, dice, and stranger games. Runs around the clock.
+
+## The Arena
+**Also known as:** The Arena of Frun · **Operator:** The Cirque
+
+Massive circular structure. Daily bouts. Weekly spectacles. The Cirque runs the operation. Fixed fights (*allegedly* — the Cirque denies it) are an open secret. Money on the fights is very real.
+
+## Mages' Hall
+**Type:** Magical academy and guild
+
+The Rock's official school of magic. Impressive halls, robust tuition, and an alarming number of visiting scholars who all speak with the *exact same cadence.*
+
+## Library of Spheres
+**Type:** Spelljammer atlas / cartographer's guild
+
+The Rock's definitive collection of star charts and crystal-sphere maps. Reading is free. Copies are not. Every captain worth their tack has been thrown out for arguing with a librarian.
+
+## Royal Theatrical Company
+**Type:** Costume shop (formerly a theater)
+
+Costumes for any occasion, species, or budget. If the shopkeeper likes you, you can get a forgery-quality uniform.
+
+## Lake Bral
+**Type:** Freshwater lake · **Resident group:** The Lovers of the Lake
+
+An improbable freshwater lake inside the Rock. Nobody knows where the water comes from. Nobody has swum past the third buoy and come back to describe it.
 
 ---
+
+# 👑 High City
+
+## Starhaven
+**Formal name:** The Palace of Bral · **Resident:** [[Prince Andru]]
+
+Palace, grounds, barracks, and the infamous **hedge maze.** Prince Andru's home and the seat of the Rock's government. Persistent rumor says people who go into the hedge maze don't always come out.
 
 ## The Noble Quarter
-**District:** High City | **Type:** Residential / Political
+**Type:** Residential / political
 
-Where the wealthy and powerful live. Walled manors, private guards, and an atmosphere that makes it clear uninvited visitors are not welcome. The merchant princes, noble houses, and senior guild officers all maintain residences here.
+Walled manors, private guards, and an atmosphere that makes it clear uninvited visitors are not welcome. Merchant princes, noble houses, and senior guild officers live here.
+
+## The Man-o'-War
+**Type:** High-society restaurant
+
+Where deals get made, marriages get arranged, and quiet reputations get destroyed over the amuse-bouche. Excellent food. No itemized bill.
 
 ---
 
-## The Palace of Bral
-**District:** High City | **Type:** Seat of Government
+# ⛰ Underground
 
-The Palace sits at the top of the Rock, home to **Prince Andru** and the apparatus of government. The Royal Guard controls access. You probably don't have business up there — yet.
+## The Tunnels
+**Access:** Hidden entrances across all districts · **Guides:** The Groundhogs
+
+The hollow interior of the Rock. Old mining shafts. Something older beneath them. Used for smuggling, hiding ships, and shortcuts between districts if you can find a guide.
+
+## Valkan's Legion
+**Access:** Only via the Groundhogs
+
+A hidden settlement deep in the Tunnels. Home to fugitives, deserters, and anyone else who needed to stop existing on the Rock's official rolls. Only the Groundhogs know the way.

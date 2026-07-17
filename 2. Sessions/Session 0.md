@@ -1,8 +1,8 @@
 ---
-sessionstatus: Planned
+sessionstatus: Occurred
 type: Session Journal
 sessionDate: 7/16/26
-players: ""
+players: Kaitlin, Charli, Kyra, Danny, Guten
 oneLiner: Session 0 — West Marches, emergent play, and collaborative world-building on the Rock of Bral
 ---
 
@@ -160,13 +160,13 @@ Standard chargen (race, class, background, etc.) — but every PC needs **two th
 
 ## 6. Character Roster
 
-| Character | Player  | Class / Race | Background | External Goal                                                   | Internal Conflict                                                             | Magic Item                             |
-| --------- | ------- | ------------ | ---------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------- |
-|           | Kaitlin |              |            |                                                                 |                                                                               | Cloak of Disguise Self                 |
-|           | Charli  | Drider Rogue |            | Kill Ronald McDonald to restore the image of clowns on the rock | She questions the damage she's done and wants to atone by making people happy | Pistol with all uncommon magic bullets |
-|           | Kyra    |              |            |                                                                 | Will do anything for self-preservation                                        | Cape of the Mountebank                 |
-|           | Danny   |              |            |                                                                 |                                                                               | Stone of Ione of Reserve               |
-|           | Guten   |              |            |                                                                 |                                                                               |                                        |
+| Character          | Player  | Class / Race | External Goal                                                                                                                                                                                                                       | Internal Conflict                                                                                                                 | Magic Item                             |
+| ------------------ | ------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Ringing Bell       | Kaitlin | Kenku Rogue  | cold hard cash. also shiny things. usually strikes a balance between money drive and self preservation, but there's a specific ultra-rare diamond that she's convinced herself is the ultimate heist that will set her up for life. | han solo style, has cut herself off from all human attachment and personal loyalty, only loyal to herself, cash and shiny things. | Cloak of Disguise Self                 |
+| Fairy Floss        | Charli  | Drider Rogue | Kill Ronald McDonald to restore the image of clowns on the rock                                                                                                                                                                     | She questions the damage she's done and wants to atone by making people happy                                                     | Pistol with all uncommon magic bullets |
+| Maillard Stargazer | Kyra    | Tabaxi Monk  |                                                                                                                                                                                                                                     | Will do anything for self-preservation                                                                                            | Cape of the Mountebank                 |
+| Norman             | Danny   | Druid        |                                                                                                                                                                                                                                     |                                                                                                                                   | Ioun Stone of Reserve                  |
+|                    | Guten   |              |                                                                                                                                                                                                                                     |                                                                                                                                   |                                        |
 
 ---
 

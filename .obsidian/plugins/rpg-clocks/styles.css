@@ -1,0 +1,110 @@
+/*
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+*/
+
+.block-language-clock {
+    --clock-color:var(--color-red);
+    --color-red: #ff5757;
+    --color-dark: #020308;
+    --color-mid: #101116;
+    --color-light: #44454a;
+    --color-bright: white;
+    --color-scrollbar-bg: var(--color-dark);
+    --color-scrollbar-fg: var(--color-light);
+    --color-clock-border: var(--color-dark);
+
+    --clock-handle-size: 40px;
+    --clock-size: 150px;
+    --clock-disc-size: 80px;
+    --scrollbar-thickness: 12px;
+    --clock-border-thickness: 4px;
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.clock {
+    --angle: calc(360deg / var(--n));
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+
+    .description{
+        color: var(--clock-color);
+        display: flex;
+        justify-content: center;
+    }
+}
+.clock[bad] {
+    --clock-color: var(--color-red);
+}
+
+.clock .widget {
+    position: relative;
+    height: var(--clock-size);
+    width: var(--clock-size);
+}
+.clock .core {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border: var(--clock-border-thickness) solid var(--color-clock-border);
+    border-radius: 50%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.clock .slice {
+    --o: 10%;
+    position: absolute;
+    top: calc(-1 * var(--o));
+    left: 50%;
+    height: calc(50% + var(--o));
+    width: calc(50% + var(--o));
+    background: var(--color-light);
+    transform-origin: bottom left;
+    transform: rotate(calc(var(--i) * var(--angle))) skewY(calc(-90deg + var(--angle)));
+    cursor: pointer;
+}
+.clock .slice[filled] {
+    background: var(--clock-color);
+}
+.clock .slice:not([filled])[will-change] {
+    background: var(--clock-color);
+    filter: brightness(0.5);
+}
+.clock .slice[filled][will-change] {
+    background: var(--color-light);
+}
+.clock .disc {
+    --offset: calc((var(--clock-size) - var(--clock-disc-size)) / 2);
+    position: absolute;
+    top: var(--offset);
+    left: var(--offset);
+    height: var(--clock-disc-size);
+    width: var(--clock-disc-size);
+    border-radius: 50%;
+    background: var(--color-clock-border);
+    pointer-events: none;
+}
+.clock .bar {
+    --w: calc(2 * var(--clock-border-thickness));
+    --h: 60%;
+    position: absolute;
+    top: -10%;
+    left: 50%;
+    height: var(--h);
+    width: var(--w);
+    transform-origin: bottom left;
+    transform: rotate(calc(var(--i) * var(--angle)));
+    pointer-events: none;
+}
+.clock .bar .paint {
+    margin-left: calc(-0.5 * var(--w));
+    height: 100%;
+    width: 100%;
+    background: var(--color-clock-border);
+}

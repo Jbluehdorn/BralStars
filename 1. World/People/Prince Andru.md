@@ -6,19 +6,24 @@
 > |---|---|
 > | Title | Prince of Bral |
 > | Race | Human |
-> | Alignment | Lawful Neutral |
-> | Location | [[The Palace of Bral]] |
+> | Alignment | Lawful Evil (well-mannered) |
+> | Residence | [[Starhaven]] (formally [[The Palace of Bral]]) |
+> | Secret command | [[The Secret Service Clowns]] |
 
 **Description:**
-Prince Andru is the current ruler of the Rock of Bral, a shrewd and pragmatic leader who has kept the city-state independent through a careful web of political alliances, bribery, and the occasional well-placed threat. He inherited the throne young and had to outmaneuver several noble houses to consolidate power.
+Current ruler of the Rock of Bral. Publicly: shrewd, pragmatic, keeps the city-state independent through alliances, bribery, and the occasional well-placed threat. Inherited young, out-maneuvered his rivals early, tolerates adventurers because they do work his constabulary won't.
 
-Andru is not cruel, but he is calculating. He genuinely wants the Rock to prosper — because a prosperous Rock means a powerful Prince. He tolerates adventurers and mercenaries because they do work that his constabulary cannot, and he is not above using them as disposable assets.
+Presents as genially accessible. Is not.
 
-He maintains a facade of genial accessibility while keeping his true intentions carefully hidden.
+**What Session 0 confirmed:**
+- He commands **[[The Secret Service Clowns]]**, a secret police made entirely of clowns, led by **[[Ronald McDonald]]**. Officially they don't exist.
+- Dissidents are taken into the **hedge maze at [[Starhaven]]** and *chased* until they don't come out.
+- There is **something very secret at the center of the hedge maze.** Only Andru knows what.
+- He is, per [[Steve]]'s hallway breakdown, **the founder of "McDonalds"** — whatever exactly that means on this asteroid.
 
 **Motivations:**
-- Maintain the independence of the Rock of Bral
-- Expand trade networks through new crystal spheres
-- Keep power balanced between the factions of the Rock
+- Maintain the independence of the Rock.
+- Expand trade networks through new crystal spheres.
+- Keep power balanced — and keep the balance tilted toward *himself*.
+- Whatever is in the hedge maze.
 
-*(Specific rumors, allies, and rivals to be established through Session 0 world-building and play.)*
